@@ -1,0 +1,27 @@
+#generateNickname{
+    width: 200px;
+    background-color: blue;
+    border-color: blue;}
+
+div {
+    width: 1000px;
+    background-color: crimson;
+    margin: auto;
+    padding: 25px;
+    border-radius: 45px;
+}
+h1 {
+    width: 500px;
+    margin: auto;
+    color: white
+}
+html{
+    background-color: navy ;
+}
+
+button {
+    width: 200px;
+    background-color: blue;
+    border-color: blue;
+    color : whitesmoke
+}
